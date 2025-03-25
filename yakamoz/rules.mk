@@ -6,7 +6,7 @@ OLED_TRANSPORT = i2c
 OPT_DEFS += -DHAL_USE_I2C=TRUE
 
 # Enable keyboard RGB underglow
-RGBLIGHT_ENABLE = yes 
+RGBLIGHT_ENABLE = no 
 
 MOUSEKEY_ENABLE = yes
 
