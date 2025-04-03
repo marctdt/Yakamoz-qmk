@@ -6,7 +6,7 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1 } 
 
-#define WS2812_DI_PIN GP1
+//#define WS2812_DI_PIN GP1
 
 
 #ifdef OLED_ENABLE
@@ -22,5 +22,5 @@
 #endif // OLED_ENABLE
 
 /* Indicator LEDs */
-#define LED_CAPS_LOCK_PIN GP25
-#define LED_PIN_ON_STATE 0
+//#define LED_CAPS_LOCK_PIN GP25
+//#define LED_PIN_ON_STATE 1
